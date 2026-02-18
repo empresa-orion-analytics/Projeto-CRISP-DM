@@ -237,10 +237,15 @@ Antecipar clientes com alta probabilidade de churn para:
 # 👨‍💻 Autor
 
 Bruno Lima de Santana
+
 Diogo Silva
+
 Giovani Rueda Malafaia
+
 Lucas Vinicius de Souza Costa
+
 Talita Nóbrega
+
 Data Engineering & Machine Learning Project
 
 ---
